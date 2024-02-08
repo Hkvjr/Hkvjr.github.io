@@ -69,30 +69,33 @@ console.log(foo(5));
 
 ## tables
 
+## Tables
+
 | Option | Description |
 | -----  | ----------- |
 | data   | pat to data filer to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
-right aligned columns
+Right aligned columns
 
 | Option  | Description |
-| ----- : | -----------: |
+| ------: | -----------:|
 | data    | pat to data filer to supply the data that will be passed into templates. |
 | engine  | engine to be used for processing templates. Handlebars is the default. |
 | ext     | extension to be used for dest files. |
+
 
 ## Links
 
 [link text](http://fi.wikipedia.org)
 [link with title](https://fi.wikipedia.org/wiki/Kirja "Kirja")
 
-##images
-![Minion](https://fi.wikipedia.org/wiki/Kirja#/media/Tiedosto:Delphine,_Madame_de_Sta%C3%ABl,_Paris,_1803_04.jpg)
+## Images
 
-## The End ! 
+![Minion](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Delphine%2C_Madame_de_Sta%C3%ABl%2C_Paris%2C_1803_04.jpg/800px-Delphine%2C_Madame_de_Sta%C3%ABl%2C_Paris%2C_1803_04.jpg)
 
+## The End!
 
 
 
