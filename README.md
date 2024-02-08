@@ -86,7 +86,7 @@ right aligned columns
 ## Links
 
 [link text](http://fi.wikipedia.org)
-[link with title](http://fi.wikipedia.org/wiki/Kirja/) 
+[link with title](https://fi.wikipedia.org/wiki/Kirja "Kirja")
 
 ##images
 ![Minion](https://fi.wikipedia.org/wiki/Kirja#/media/Tiedosto:Delphine,_Madame_de_Sta%C3%ABl,_Paris,_1803_04.jpg)
