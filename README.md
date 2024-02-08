@@ -79,11 +79,13 @@ console.log(foo(5));
 
 Right aligned columns
 
+Right aligned columns
+
 | Option  | Description |
-| ------: | -----------:|
-| data    | pat to data filer to supply the data that will be passed into templates. |
-| engine  | engine to be used for processing templates. Handlebars is the default. |
-| ext     | extension to be used for dest files. |
+| -------:| -----------:|
+| data    | Path to data file to supply the data that will be passed into templates. |
+| engine  | Engine to be used for processing templates. Handlebars is the default. |
+| ext     | Extension to be used for destination files. |
 
 
 ## Links
